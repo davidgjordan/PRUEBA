@@ -1,1 +1,2 @@
 dos PRUEBA CONFLICTO
+dos editado
